@@ -11,6 +11,7 @@ I’m especially interested in how analytics fails in real organizations, not be
 
 ## Start here
 Decision-Centric Analysis (When Dashboards Fail): https://github.com/ifiok-ebong/decision-centric-analytics
+The Cost of the Wrong Question (Framing error case study): https://github.com/ifiok-ebong/the-cost-of-the-wrong-question
 
 ## What I believe about analytics
 - Analytics exists to reduce uncertainty around a decision, not to explain everything  
@@ -24,7 +25,7 @@ Each project is designed to demonstrate judgment, not technical breadth.
 1) Decision-Centric Analysis: When Dashboards Fail  
 Core question: Why do well-built dashboards still fail to drive action?
 
-2) The Cost of the Wrong Question: A Framing Error Case Study (in progress)  
+2) The Cost of the Wrong Question: A Framing Error Case Study  
 Core question: How do good analysts produce bad outcomes by answering the wrong question?
 
 3) Signal vs Noise: Identifying Metrics That Matter (planned)  
