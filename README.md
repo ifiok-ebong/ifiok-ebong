@@ -10,7 +10,7 @@ I work in analytics, but my focus is not dashboards, models, or tools. My work c
 I’m especially interested in how analytics fails in real organizations, not because of bad data, but because of unclear questions, misaligned incentives, and over-analysis where judgment is required.
 
 ## Start here
-Decision-Centric Analysis (When Dashboards Fail): https://github.com/ifiok-ebong/decision-centric-analytics
+Decision-Centric Analysis (When Dashboards Fail): https://github.com/ifiok-ebong/decision-centric-analytics  
 The Cost of the Wrong Question (Framing error case study): https://github.com/ifiok-ebong/the-cost-of-the-wrong-question
 
 ## What I believe about analytics
